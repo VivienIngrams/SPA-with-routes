@@ -1,3 +1,4 @@
+
 import classes from './EventsList.module.css';
 
 function EventsList({ events }) {
